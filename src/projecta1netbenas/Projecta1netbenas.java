@@ -16,6 +16,8 @@ public class Projecta1netbenas {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // pujem un fitxer 
+        //aquest arxiu estara modificat per el gurpreet Singh
     }
     
 }

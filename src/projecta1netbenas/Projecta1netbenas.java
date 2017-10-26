@@ -19,6 +19,7 @@ public class Projecta1netbenas {
         // pujem un fitxer 
         //aquest arxiu estara modificat per el gurpreet Singh
        //hem creat una nova branca.  
+       //fet merge. 
     }
     
 }

@@ -18,7 +18,7 @@ public class Projecta1netbenas {
         // TODO code application logic here
         // pujem un fitxer 
         //aquest arxiu estara modificat per el gurpreet Singh
-        
+       //hem creat una nova branca.  
     }
     
 }
